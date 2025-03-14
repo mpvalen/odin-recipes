@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin Recipes
+A collection of recipe web pages created as part of The Odin Project's foundations course. Each HTML page contains a different recipe with a list of required ingredients and step-by-step instructions for preparation.
